@@ -109,13 +109,6 @@ do{
 }
 
 
-// double search_positive_values((*func)(double)){
-
-
-
-// 	return 0.0;
-// }
-
 double random_search_positive_values(double (*func)(double)){
 
 //search in the interval with a 1000 numbers positive and negative.
@@ -195,10 +188,6 @@ int main(){
 
 	return 0;
 }
-
-/* to do in sfcollaspe:
-	-implement this tested method to find the bissection
-	-solvers */
 
 
 
